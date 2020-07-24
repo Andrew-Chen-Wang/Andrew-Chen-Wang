@@ -1,13 +1,12 @@
 ### Hey 👋 I'm Andrew
 
-I'm a kid that's looking to help with whatever I can;
-I'm also an entrepeneur, but I don't like that title.
+I'm looking to help with whatever I can;
 This is my public GitHub account where I host personal,
 public projects and WIP hobbies.
 
 I've had a lot of fun learning web + mobile applications, security, ML,
 DevOps, databases, and caches in the past few months on this account.
-I work a lot in Django and am currently trying to pioneer native
+I play a lot with Django and am currently trying to pioneer native
 Django for websockets through [cookiecutter-django](https://github.com/pydanny/cookiecutter-django).
 I also help to maintain [django-cachalot](https://github.com/noripyt/django-cachalot)
 and [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt).
