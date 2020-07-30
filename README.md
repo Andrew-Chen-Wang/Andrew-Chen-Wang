@@ -1,5 +1,9 @@
 ### Hey 👋 I'm Andrew
 
+> Don't hold grudges. Let 'em go. Focus on what you love, not hate.
+
+<sup>My small motto that someone said was pretty nice.</sup>
+
 I'm looking to help with whatever I can;
 This is my public GitHub account where I host personal,
 public projects and WIP hobbies.
