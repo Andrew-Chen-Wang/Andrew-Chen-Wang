@@ -1,11 +1,19 @@
 ### Hey 👋 I'm Andrew
 
-> Don't hold grudges. Let 'em go. Focus on what you love, not hate.
+Stuff I wanna do on this account: https://github.com/Andrew-Chen-Wang/TODO Some are decent ideas that
+are nice cash cows, but they're ideas that I don't have time for... so they're public domain :)
 
+Monthly quotes I make (view README comments for my past quotes):
+
+> You don't convince others by being their nemesis but instead by being their friend.
+
+<!--
+1. Don't hold grudges. Let 'em go. Focus on what you love, not hate.
 <sup>My small motto that someone said was pretty nice.</sup>
+-->
 
 I'm looking to help with whatever I can;
-This is my public GitHub account where I host personal,
+this is my public GitHub account where I host personal,
 public projects and WIP hobbies.
 
 I've had a lot of fun learning web + mobile applications, security, ML,
@@ -15,6 +23,9 @@ Django for websockets through [cookiecutter-django](https://github.com/pydanny/c
 I also help to maintain [django-cachalot](https://github.com/noripyt/django-cachalot)
 and [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt).
 
+<!--
+Hehe thanks for taking a look here. This is what it used to say:
+
 Regarding the social issues of today, I do my best to
 contribute to solutions. In the past, those
 came anonymously through my pseudonyms. I'd like
@@ -23,11 +34,11 @@ to make *some* of them more public.
 > If there are problems, a solution will come.
 Not because they'll rain down, but because diligence rises.
 
+-->
+
 Current **public** projects:
 - [Donate Anything](https://github.com/Donate-Anything) (search up items you'd like to donate and we'll suggest how to handle it)
 - [Natural Gravity Engine](https://github.com/Andrew-Chen-Wang/natural-gravity-engine) (physics engine that allows researching into the natural properties of gravity and gravitational waves without programming them)
-
-Stuff I wanna do on this account: https://github.com/Andrew-Chen-Wang/TODO
 
 📫 How to reach me: [acwangpython@gmail.com](mailto:acwangpython@gmail.com?subject=[GH%20Hi%20Andrew]).
 
