@@ -39,6 +39,7 @@ Not because they'll rain down, but because diligence rises.
 Current **public** projects:
 - [Donate Anything](https://github.com/Donate-Anything) (search up items you'd like to donate and we'll suggest how to handle it)
 - [Natural Gravity Engine](https://github.com/Andrew-Chen-Wang/natural-gravity-engine) (physics engine that allows researching into the natural properties of gravity and gravitational waves without programming them)
+- [Django Async Redis](https://github.com/Andrew-Chen-Wang/django-async-redis) (async Django-Redis package as a next step to making Django completely async capable)
 
 📫 How to reach me: [acwangpython@gmail.com](mailto:acwangpython@gmail.com?subject=[GH%20Hi%20Andrew]).
 
