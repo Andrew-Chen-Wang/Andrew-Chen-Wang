@@ -5,11 +5,15 @@ are nice cash cows, but they're ideas that I don't have time for... so they're p
 
 Monthly quotes I make (view README comments for my past quotes):
 
-> You don't convince others by being their nemesis but instead by being their friend.
+> You can be 100% successful building but fail at the end -- not because you failed, but because you made a mistake.
+
+<sup>explanation in comments in README</sup>
 
 <!--
 1. Don't hold grudges. Let 'em go. Focus on what you love, not hate.
 <sup>My small motto that someone said was pretty nice.</sup>
+2. You don't convince others by being their nemesis but instead by being their friend.
+3. You can be 100% successful building but fail at the end -- not because you failed, but because you made a mistake. - Wednesday 30 Sep 2020. (Just for explanation: think about a very competitive market. You can continue to increase your sales in every decision you make, which is a success. But whether it's right or wrong is different. You made the wrong decision in that your competitors made more sales than you. That was your mistake. Maybe 2/3 options led to success, and you chose the one that increased your sales account tremendously. But your competitor chose that other successful option. Knowing the difference between success-failure and correctness is important to me.
 -->
 
 I'm looking to help with whatever I can;
