@@ -1,13 +1,13 @@
 ### Hey 👋 I'm Andrew
 
 Stuff I wanna do on this account: https://github.com/Andrew-Chen-Wang/TODO Some are decent ideas that
-are nice cash cows, but they're ideas that I don't have time for... so they're public domain :)
+could make money, but they're ideas that I don't have time for... so they're public domain :)
 
 Monthly quotes I make (view README comments for my past quotes):
 
 > You can be 100% successful building but fail at the end -- not because you failed, but because you made a mistake.
 
-<sup>explanation in comments in README</sup>
+<sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit Velnota.com</sup>
 
 <!--
 1. Don't hold grudges. Let 'em go. Focus on what you love, not hate.
