@@ -14,6 +14,11 @@ Monthly quotes I make (view README comments for my past quotes):
 <sup>My small motto that someone said was pretty nice.</sup>
 2. You don't convince others by being their nemesis but instead by being their friend.
 3. You can be 100% successful building but fail at the end -- not because you failed, but because you made a mistake. - Wednesday 30 Sep 2020. (Just for explanation: think about a very competitive market. You can continue to increase your sales in every decision you make, which is a success. But whether it's right or wrong is different. You made the wrong decision in that your competitors made more sales than you. That was your mistake. Maybe 2/3 options led to success, and you chose the one that increased your sales account tremendously. But your competitor chose that other successful option. Knowing the difference between success-failure and correctness is important to me.
+4. What makes a leader
+Andrew Chen Wang 31 Oct Sat 2020 Just finished writing my response in SimpleJWT about NOT changing the name blacklist to anything else. But I fell into me talking to myself again and came up with this.
+To be weak is to be open minded. To be strong is to be a leader, close minded, and make the decisions. I fear that if I were to be elected president, I would become close minded, as I should, to stick to a plan.
+But when you are weak you become more knowledgable. It is when you become a leader, you must trace back to your weak points and take advantage of the knowledge and wisdom you gained to pursue your role as a leader and be strong.
+This quote is aligned with “learn from your mistakes” but in the form of being a leader.
 -->
 
 I'm looking to help with whatever I can;
