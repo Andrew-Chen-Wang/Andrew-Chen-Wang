@@ -15,3 +15,7 @@ Also, I say "if I were to become president," I would never unless LOTS and I mea
 It's the third point that haunts leadership in general. If I were to be a good leader, I would need to be close minded (of course not fully) but that's how presidencies have been haunted for decades on end. You must be strong, mentally and socially.
 
 If lots of people told me to be president, I would CONSIDER it, but I highly doubt enough people would ever tell me to be president.
+
+Edit 2:
+
+this became my November 2020 quote
