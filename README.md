@@ -1,11 +1,17 @@
 ### Hey 👋 I'm Andrew
 
-Stuff I wanna do on this account: https://github.com/Andrew-Chen-Wang/TODO Some are decent ideas that
-could make money, but they're ideas that I don't have time for... so they're public domain :)
+This README and repository details:
+- My monthly quote
+- My thoughts ([go to the repository](https://github.com/Andrew-Chen-Wang/Andrew-Chen-Wang))
+- Public Projects
+- About Me
+- Stuff I wanna do on this account found [here](https://github.com/Andrew-Chen-Wang/TODO). Some are
+decent ideas that could make money, but they're ideas that I don't have time for... so they're public domain :)
 
+---
 Monthly quotes I make (view README comments for my past quotes):
 
-> You can be 100% successful building but fail at the end -- not because you failed, but because you made a mistake.
+> To be weak is to be open minded. To be strong is to be a leader, close minded, and make the decisions. But when you are weak you become more knowledgable. It is when you become a leader, you must trace back to your weak points and take advantage of the knowledge and wisdom you gained to pursue your role as a leader and be strong.
 
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit Velnota.com</sup>
 
