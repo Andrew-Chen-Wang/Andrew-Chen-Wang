@@ -11,7 +11,7 @@ decent ideas that could make money, but they're ideas that I don't have time for
 ---
 Monthly quotes I make (view README comments for my past quotes):
 
-> To be weak is to be open minded. To be strong is to be a leader, close minded, and make the decisions. But when you are weak you become more knowledgable. It is when you become a leader, you must trace back to your weak points and take advantage of the knowledge and wisdom you gained to pursue your role as a leader and be strong.
+> Being a listener is being drunk.
 
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit Velnota.com</sup>
 
@@ -25,6 +25,7 @@ Andrew Chen Wang 31 Oct Sat 2020 Just finished writing my response in SimpleJWT 
 To be weak is to be open minded. To be strong is to be a leader, close minded, and make the decisions. I fear that if I were to be elected president, I would become close minded, as I should, to stick to a plan.
 But when you are weak you become more knowledgable. It is when you become a leader, you must trace back to your weak points and take advantage of the knowledge and wisdom you gained to pursue your role as a leader and be strong.
 This quote is aligned with “learn from your mistakes” but in the form of being a leader.
+5. Being a listener is being drunk. I.e. creativity at its finest, but don't actually get drunk. I've never, no one should; bad stuff happens.
 -->
 
 I'm looking to help with whatever I can;
