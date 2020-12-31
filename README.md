@@ -11,7 +11,7 @@ decent ideas that could make money, but they're ideas that I don't have time for
 ---
 Monthly quotes I make (view README comments for my past quotes):
 
-> Being a listener is being drunk.
+> It's only useful if it's a toy.
 
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit Velnota.com</sup>
 
@@ -26,6 +26,7 @@ To be weak is to be open minded. To be strong is to be a leader, close minded, a
 But when you are weak you become more knowledgable. It is when you become a leader, you must trace back to your weak points and take advantage of the knowledge and wisdom you gained to pursue your role as a leader and be strong.
 This quote is aligned with “learn from your mistakes” but in the form of being a leader.
 5. Being a listener is being drunk. I.e. creativity at its finest, but don't actually get drunk. I've never, no one should; bad stuff happens.
+6. It's only useful if it's a toy. It's something I learned from Freeman Dyson, but he's not wrong (albeit controvercial as a person). He talked about computers and biotech, but honestly lots of things do work when people fool around with it a lot like ML and... clothes? Wtf I mean sure, people like trying on clothes to make sure they look good...?
 -->
 
 I'm looking to help with whatever I can;
