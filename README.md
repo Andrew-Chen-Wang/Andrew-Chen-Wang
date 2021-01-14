@@ -1,5 +1,7 @@
 ### Hey 👋 I'm Andrew
 
+I run [Velnota](https://velnota.com) and [Donate Anything](https://donate-anything.org/), a social media site about creating ideas and expanding upon them and a donation/recycling online service for the sake of laziness.
+
 This README and repository details:
 - My monthly quote
 - My thoughts ([go to the repository](https://github.com/Andrew-Chen-Wang/Andrew-Chen-Wang))
@@ -13,7 +15,7 @@ Monthly quotes I make (view README comments for my past quotes):
 
 > It's only useful if it's a toy.
 
-<sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit Velnota.com</sup>
+<sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit [Velnota.com](https://velnota.com/)</sup>
 
 <!--
 1. Don't hold grudges. Let 'em go. Focus on what you love, not hate.
