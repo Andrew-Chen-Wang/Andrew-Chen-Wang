@@ -13,7 +13,11 @@ decent ideas that could make money, but they're ideas that I don't have time for
 ---
 Monthly quotes I make (view README comments for my past quotes):
 
-> It's only useful if it's a toy.
+> It's okay if u don't like me not everyone has good taste
+
+~ Sophia Liang (she agreed to it. She's cooler than the sun and hotter than the moon)
+
+<!-- We're not dating, but... DO NOT EVER call your friend AVERAGE -->
 
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit [Velnota.com](https://velnota.com/)</sup>
 
