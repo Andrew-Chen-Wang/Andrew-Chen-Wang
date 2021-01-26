@@ -13,7 +13,7 @@ decent ideas that could make money, but they're ideas that I don't have time for
 ---
 Monthly quotes I make (view README comments for my past quotes):
 
-> Entrepeneurs are different from you and your corporate beasts. You don't have to believe in me, just the idea, the vision. Since middle school, I've had to constantly wear glasses to give me vision; if I didn't, I couldn't see what's in front of me. I'm able to wear these glasses because I can afford them. This vision is affordable. Trust in the idea... Give it your trust. If not, I recommend you purchase some glasses. All of you.
+> Entrepeneurs are different from you and your corporate beasts. You don't have to believe in me, just the idea, the vision. I've had to constantly wear glasses to give me vision; I had to keep purchasing them as my vision kept deteriorating. But I'm able to wear these glasses because I can afford them, and will continue to be able to afford them. Trust in the idea... Give it your trust. If not, I recommend you purchase some glasses. All of you.
 
 ~ Me, Today
 
