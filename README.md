@@ -14,7 +14,7 @@ decent ideas that could make money, but they're ideas that I don't have time for
 ---
 Monthly quotes I make (view README comments for my past quotes):
 
-> Entrepeneurs are different from you and your corporate beasts. You don't have to believe in me, just the idea, the vision. I've had to constantly wear glasses to give me vision; I had to keep purchasing them as my vision kept deteriorating. But I'm able to wear these glasses because I can afford them, and will continue to be able to afford them. Trust in the idea... Give it your trust. If not, I recommend you purchase some glasses. All of you.
+> Entrepreneurs are different from you and your corporate beasts. You don't have to believe in me, just the idea, the vision. I've had to constantly wear glasses to give me vision; I had to keep purchasing them as my vision kept deteriorating. But I'm able to wear these glasses because I can afford them, and will continue to be able to afford them. Trust in the idea... Give it your trust. If not, I recommend you purchase some glasses. All of you.
 
 ~ Me, Today
 
@@ -32,7 +32,7 @@ But when you are weak you become more knowledgable. It is when you become a lead
 This quote is aligned with “learn from your mistakes” but in the form of being a leader.
 5. Being a listener is being drunk. I.e. creativity at its finest, but don't actually get drunk. I've never, no one should; bad stuff happens.
 6. It's only useful if it's a toy. It's something I learned from Freeman Dyson, but he's not wrong (albeit controvercial as a person). He talked about computers and biotech, but honestly lots of things do work when people fool around with it a lot like ML and... clothes? Wtf I mean sure, people like trying on clothes to make sure they look good...?
-7. It's okay if u don't like me not everyone has good taste ~ Sophia Liang She's cooler than the sun and hotter than the moon) <!-- We're not dating, but... DO NOT EVER call your friend AVERAGE -->
+7. It's okay if u don't like me not everyone has good taste ~ Sophia Liang She's cooler than the sun and hotter than the moon) <!-- We're not dating, but... DO NOT EVER call your friend AVERAGE -- >
 -->
 
 I'm looking to help with whatever I can;
