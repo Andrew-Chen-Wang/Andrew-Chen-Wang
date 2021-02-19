@@ -1,8 +1,6 @@
 # Be a Balanced Idealist
 ### Hey 👋 I'm Andrew
 
-I run [Velnota](https://velnota.com) and [Donate Anything](https://donate-anything.org/), a social media site about creating ideas and expanding upon them and a donation/recycling online service for the sake of laziness.
-
 This README and repository details:
 - My monthly quote
 - My thoughts ([go to the repository](https://github.com/Andrew-Chen-Wang/Andrew-Chen-Wang))
@@ -12,11 +10,15 @@ This README and repository details:
 decent ideas that could make money, but they're ideas that I don't have time for... so they're public domain :)
 
 ---
-Monthly quotes I make (view README comments for my past quotes):
-
+<details>
+  <summary>Monthly quote</summary>
+<br>
+  
 > Be a Balanced Idealist
 
-<sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit [Velnota.com](https://velnota.com/)</sup>
+<sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit [Velnota.com](https://velnota.com/) (view README comments for my past quotes)</sup>
+
+</details>
 
 <!--
 1. Don't hold grudges. Let 'em go. Focus on what you love, not hate.
@@ -34,6 +36,11 @@ This quote is aligned with “learn from your mistakes” but in the form of bei
 8. Entrepreneurs are different from you and your corporate beasts. You don't have to believe in me, just the idea, the vision. I've had to constantly wear glasses to give me vision; I had to keep purchasing them as my vision kept deteriorating. But I'm able to wear these glasses because I can afford them, and will continue to be able to afford them. Trust in the idea... Give it your trust. If not, I recommend you purchase some glasses. All of you.
 -->
 
+<details>
+  <summary>About Me</summary>
+
+I run [Velnota](https://velnota.com) and [Donate Anything](https://donate-anything.org/), a social media site about creating ideas and expanding upon them and a donation/recycling online service for the sake of laziness.
+
 I'm looking to help with whatever I can;
 this is my public GitHub account where I host personal,
 public projects and WIP hobbies.
@@ -44,6 +51,8 @@ I play a lot with Django and am currently trying to pioneer native
 Django for websockets through [cookiecutter-django](https://github.com/pydanny/cookiecutter-django).
 I also help to maintain [django-cachalot](https://github.com/noripyt/django-cachalot)
 and [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt).
+
+</details>
 
 <!--
 Hehe thanks for taking a look here. This is what it used to say:
@@ -58,11 +67,15 @@ Not because they'll rain down, but because diligence rises.
 
 -->
 
-Current **public** projects:
+<details>
+  <summary>Current public projects</summary>
+
 - [mobile-auth-example](https://github.com/Andrew-Chen-Wang/mobile-auth-example) (My template for creating native mobile apps with auth, using my favorite network file structure. Re-publicized for [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt))
 - [Donate Anything](https://github.com/Donate-Anything) (search up items you'd like to donate and we'll suggest how to handle it)
 - [Natural Gravity Engine](https://github.com/Andrew-Chen-Wang/natural-gravity-engine) (physics engine that allows researching into the natural properties of gravity and gravitational waves without programming them)
 - [Django Async Redis](https://github.com/Andrew-Chen-Wang/django-async-redis) (async Django-Redis package as a next step to making Django completely async capable)
+
+</details>
 
 📫 How to reach me: [acwangpython@gmail.com](mailto:acwangpython@gmail.com?subject=[GH%20Hi%20Andrew]).
 
