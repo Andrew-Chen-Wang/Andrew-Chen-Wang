@@ -2,7 +2,7 @@
 ### Hey 👋 I'm Andrew
 
 ---
-Stuff I wanna do on this account found at [Velnota](https://velnota.com/) and [here](https://github.com/Andrew-Chen-Wang/TODO). Some are decent ideas that could make money, but they're ideas that I don't have time for... so they're public domain :)
+Stuff I wanna do on this account found at [Velnota](https://velnota.com/) and [here](https://github.com/Andrew-Chen-Wang/TODO). Just public domain ideas.
 
 <details>
   <summary>About Me</summary>
