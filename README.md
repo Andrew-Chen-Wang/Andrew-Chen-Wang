@@ -1,8 +1,7 @@
-# Be a Balanced Idealist
 ### Hey 👋 I'm Andrew
 
 ---
-Stuff I wanna do on this account found at [Velnota](https://velnota.com/) and [here](https://github.com/Andrew-Chen-Wang/TODO). Just public domain ideas.
+Stuff I wanna do on this account can be found at [Velnota](https://velnota.com/) and [my TODO repo](https://github.com/Andrew-Chen-Wang/TODO).
 
 <details>
   <summary>About Me</summary>
@@ -26,7 +25,7 @@ and [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt).
   <summary>Monthly quote</summary>
 <br>
   
-> Be a Balanced Idealist
+> If you try to stick a toothpick into a saber-toothed tiger's eye, you not only have a lollipop but also a time machine.
 
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit [Velnota.com](https://velnota.com/)</sup>
 
@@ -46,6 +45,8 @@ This quote is aligned with “learn from your mistakes” but in the form of bei
 6. It's only useful if it's a toy. It's something I learned from Freeman Dyson, but he's not wrong (albeit controvercial as a person). He talked about computers and biotech, but honestly lots of things do work when people fool around with it a lot like ML and... clothes? Wtf I mean sure, people like trying on clothes to make sure they look good...?
 7. It's okay if u don't like me not everyone has good taste ~ Sophia Liang She's cooler than the sun and hotter than the moon) <!-- We're not dating, but... DO NOT EVER call your friend AVERAGE -->
 8. Entrepreneurs are different from you and your corporate beasts. You don't have to believe in me, just the idea, the vision. I've had to constantly wear glasses to give me vision; I had to keep purchasing them as my vision kept deteriorating. But I'm able to wear these glasses because I can afford them, and will continue to be able to afford them. Trust in the idea... Give it your trust. If not, I recommend you purchase some glasses. All of you.
+9. Be a balanced idealist. Similar to point 8: you can have your ideals, but understand that they are ideal under certain circumstances. Don't let ideals get in the way of progress.
+10. If you try to stick a toothpick into a saber-toothed tiger's eye, you not only have a lollipop but also a time machine. (I've got nothing to say this month :P). This breed is extinct, but my point is there is nothing. I'm not sure why saber-toothed tiger popped in my head; I just heard it throughout my life in various settings e.g. a YouTube video where gamers spew random words. Idk. But yea that's all I got.
 </details>
 
 </details>
