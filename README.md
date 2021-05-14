@@ -47,8 +47,8 @@ This quote is aligned with “learn from your mistakes” but in the form of bei
 8. Entrepreneurs are different from you and your corporate beasts. You don't have to believe in me, just the idea, the vision. I've had to constantly wear glasses to give me vision; I had to keep purchasing them as my vision kept deteriorating. But I'm able to wear these glasses because I can afford them, and will continue to be able to afford them. Trust in the idea... Give it your trust. If not, I recommend you purchase some glasses. All of you.
 9. Be a balanced idealist. Similar to point 8: you can have your ideals, but understand that they are ideal under certain circumstances. Don't let ideals get in the way of progress.
 10. If you try to stick a toothpick into a saber-toothed tiger's eye, you not only have a lollipop but also a time machine. (I've got nothing to say this month :P). This breed is extinct, but my point is there is nothing. I'm not sure why saber-toothed tiger popped in my head; I just heard it throughout my life in various settings e.g. a YouTube video where gamers spew random words. Idk. But yea that's all I got.
-</details>
 11. If only I could see skin color. Oh well. (I hate the news... That should be a good enough explanation for most Americans)
+</details>
 
 </details>
 
@@ -72,6 +72,18 @@ Not because they'll rain down, but because diligence rises.
 - [Donate Anything](https://github.com/Donate-Anything) (search up items you'd like to donate and we'll suggest how to handle it)
 - [Natural Gravity Engine](https://github.com/Andrew-Chen-Wang/natural-gravity-engine) (physics engine that allows researching into the natural properties of gravity and gravitational waves without programming them)
 - [Django Async Redis](https://github.com/Andrew-Chen-Wang/django-async-redis) (async Django-Redis package as a next step to making Django completely async capable)
+- [RichEditorView](https://github.com/Andrew-Chen-Wang/RichEditorView) (a WYSIWYG editor for iOS)
+- [github-wiki-action](https://github.com/Andrew-Chen-Wang/github-wiki-action) (a ReadTheDocs-like webhook system but for GitHub wiki)
+
+Projects I help maintain:
+
+- [django-cachalot](https://github.com/noripyt/django-cachalot) (a Django ORM automatic caching system that monkeypatches the sh\*t out of the internals of the Django ORM)
+- [django-rest-framework-simplejwt](https://github.com/jazzband/django-rest-framework-simplejwt/) (simplified JWT stateless auth)
+- [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) (deploy-ready template for new Django projects and experimentation for new Django features)
+
+Fun Learning Projects:
+- [cookiecutter-django-ecs-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ecs-github) (Extremely thorough DevOps tutorial for AWS deployment for Django projects using GitHub Actions and AWS ECS, CodeDeploy, RDS, ElastiCache)
+- [OAuth Provider and Consumer Tutorial](https://github.com/Andrew-Chen-Wang/django-social-provider-and-consumer-tutorial)
 
 </details>
 
