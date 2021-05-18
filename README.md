@@ -80,6 +80,7 @@ Projects I help maintain:
 - [django-cachalot](https://github.com/noripyt/django-cachalot) (a Django ORM automatic caching system that monkeypatches the sh\*t out of the internals of the Django ORM)
 - [django-rest-framework-simplejwt](https://github.com/jazzband/django-rest-framework-simplejwt/) (simplified JWT stateless auth)
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) (deploy-ready template for new Django projects and experimentation for new Django features)
+- [aioredis](https://github.com/aio-libs/aioredis-py/) (python async Redis API)
 
 Fun Learning Projects:
 - [cookiecutter-django-ecs-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ecs-github) (Extremely thorough DevOps tutorial for AWS deployment for Django projects using GitHub Actions and AWS ECS, CodeDeploy, RDS, ElastiCache)
