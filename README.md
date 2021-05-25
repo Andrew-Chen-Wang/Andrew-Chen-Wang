@@ -27,6 +27,7 @@ and [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt).
   
 > If only I could see skin color. Oh well.
 
+  <!--
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit [Velnota.com](https://velnota.com/)</sup>
 
 <details>
@@ -43,12 +44,13 @@ But when you are weak you become more knowledgable. It is when you become a lead
 This quote is aligned with “learn from your mistakes” but in the form of being a leader.
 5. Being a listener is being drunk. I.e. creativity at its finest, but don't actually get drunk. I've never, no one should; bad stuff happens.
 6. It's only useful if it's a toy. It's something I learned from Freeman Dyson, but he's not wrong (albeit controvercial as a person). He talked about computers and biotech, but honestly lots of things do work when people fool around with it a lot like ML and... clothes? Wtf I mean sure, people like trying on clothes to make sure they look good...?
-7. It's okay if u don't like me not everyone has good taste ~ Sophia Liang She's cooler than the sun and hotter than the moon) <!-- We're not dating, but... DO NOT EVER call your friend AVERAGE -->
+7. It's okay if u don't like me not everyone has good taste ~ Sophia Liang She's cooler than the sun and hotter than the moon) <!-- We're not dating, but... DO NOT EVER call your friend AVERAGE -\->
 8. Entrepreneurs are different from you and your corporate beasts. You don't have to believe in me, just the idea, the vision. I've had to constantly wear glasses to give me vision; I had to keep purchasing them as my vision kept deteriorating. But I'm able to wear these glasses because I can afford them, and will continue to be able to afford them. Trust in the idea... Give it your trust. If not, I recommend you purchase some glasses. All of you.
 9. Be a balanced idealist. Similar to point 8: you can have your ideals, but understand that they are ideal under certain circumstances. Don't let ideals get in the way of progress.
 10. If you try to stick a toothpick into a saber-toothed tiger's eye, you not only have a lollipop but also a time machine. (I've got nothing to say this month :P). This breed is extinct, but my point is there is nothing. I'm not sure why saber-toothed tiger popped in my head; I just heard it throughout my life in various settings e.g. a YouTube video where gamers spew random words. Idk. But yea that's all I got.
 11. If only I could see skin color. Oh well. (I hate the news... That should be a good enough explanation for most Americans)
 </details>
+-->
 
 </details>
 
