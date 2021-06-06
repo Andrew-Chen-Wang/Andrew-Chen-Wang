@@ -25,7 +25,7 @@ and [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt).
   <summary>Monthly quote</summary>
 <br>
   
-> If only I could see skin color. Oh well.
+> 5 locks is the same as 1 against a roommate.
 
   <!--
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit [Velnota.com](https://velnota.com/)</sup>
@@ -49,6 +49,7 @@ This quote is aligned with “learn from your mistakes” but in the form of bei
 9. Be a balanced idealist. Similar to point 8: you can have your ideals, but understand that they are ideal under certain circumstances. Don't let ideals get in the way of progress.
 10. If you try to stick a toothpick into a saber-toothed tiger's eye, you not only have a lollipop but also a time machine. (I've got nothing to say this month :P). This breed is extinct, but my point is there is nothing. I'm not sure why saber-toothed tiger popped in my head; I just heard it throughout my life in various settings e.g. a YouTube video where gamers spew random words. Idk. But yea that's all I got.
 11. If only I could see skin color. Oh well. (I hate the news... That should be a good enough explanation for most Americans)
+12. 5 locks is the same as 1 against a roommate. They'll still break in.
 </details>
 -->
 
