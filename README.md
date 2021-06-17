@@ -77,6 +77,7 @@ Not because they'll rain down, but because diligence rises.
 - [Django Async Redis](https://github.com/Andrew-Chen-Wang/django-async-redis) (async Django-Redis package as a next step to making Django completely async capable)
 - [RichEditorView](https://github.com/Andrew-Chen-Wang/RichEditorView) (a WYSIWYG editor for iOS)
 - [github-wiki-action](https://github.com/Andrew-Chen-Wang/github-wiki-action) (a ReadTheDocs-like webhook system but for GitHub wiki)
+- [Crowd Sourced Translations](https://www.dolthub.com/repositories/andrew-chen-wang/Crowd-Sourced-Translations) (a Dolthub repository for crowd sourcing translations which were not done by automated services)
 
 Projects I help maintain:
 
