@@ -88,7 +88,8 @@ Projects I help maintain:
 - [aioredis](https://github.com/aio-libs/aioredis-py/) (python async Redis API)
 
 Fun Learning Projects:
-- [cookiecutter-django-ecs-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ecs-github) (Extremely thorough DevOps tutorial for AWS deployment for Django projects using GitHub Actions and AWS ECS, CodeDeploy, RDS, ElastiCache)
+- [cookiecutter-django-ec2-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ec2-github) (Extremely thorough DevOps tutorial for AWS deployment for Django projects using GitHub Actions and AWS EC2, CodeDeploy, RDS, ElastiCache)
+- [cookiecutter-django-ecs-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ecs-github) (Same as above except we're using ECS and Dockerhub image repository or ECR image repository)
 - [OAuth Provider and Consumer Tutorial](https://github.com/Andrew-Chen-Wang/django-social-provider-and-consumer-tutorial)
 
 </details>
