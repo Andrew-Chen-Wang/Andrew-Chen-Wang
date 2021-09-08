@@ -81,9 +81,12 @@ Not because they'll rain down, but because diligence rises.
 - [mobile-auth-example](https://github.com/Andrew-Chen-Wang/mobile-auth-example) (My template for creating native mobile apps with auth, using my favorite network file structure. Re-publicized for [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt))
 - [github-wiki-action](https://github.com/Andrew-Chen-Wang/github-wiki-action) (a ReadTheDocs-like webhook system but for GitHub wiki)
 - [Crowd Sourced Translations](https://www.dolthub.com/repositories/andrew-chen-wang/Crowd-Sourced-Translations) (a Dolthub repository for crowd sourcing translations which were not done by automated services)
-
+- [Words in Political Media](https://github.com/Andrew-Chen-Wang/words-in-political-media) (data collection for my NLP model to detect how "entertaining" news is becoming)
+- [Securing SPAs with HttpOnly cookies](https://github.com/Andrew-Chen-Wang/SPA-with-httponly-sessions)
+  
 Projects I help maintain:
 
+- [Django](https://djangoproject.com) (the only web framework that makes it coding secure websites fast)
 - [django-cachalot](https://github.com/noripyt/django-cachalot) (a Django ORM automatic caching system that monkeypatches the sh\*t out of the internals of the Django ORM)
 - [django-rest-framework-simplejwt](https://github.com/jazzband/django-rest-framework-simplejwt/) (simplified JWT stateless auth)
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) (deploy-ready template for new Django projects and experimentation for new Django features)
@@ -92,9 +95,12 @@ Projects I help maintain:
 - [Jazzband](https://github.com/Jazzband) (an organization dedicated to maintaining Django ecosystem packages)
   
 Fun Learning Projects:
+- [iOS Chat App](https://github.com/Andrew-Chen-Wang/django-3.0-ios-chat) (iOS Swift 5.0 live chat app as a first time using Django 3.0 native websocket support using the single-user per-socket approach)
 - [cookiecutter-django-ec2-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ec2-github) (Extremely thorough DevOps tutorial for AWS deployment for Django projects using GitHub Actions and AWS EC2, CodeDeploy, RDS, ElastiCache)
 - [cookiecutter-django-ecs-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ecs-github) (Same as above except we're using ECS and Dockerhub image repository or ECR image repository)
 - [OAuth Provider and Consumer Tutorial](https://github.com/Andrew-Chen-Wang/django-social-provider-and-consumer-tutorial) (React Native and Django Web app tutorial for implementing the full OAuth protocol and OpenID Identity Layer)
+- [Getting user's Congressional District](https://github.com/Andrew-Chen-Wang/react-native-select-location-map-or-access) (a React Native app)
+- [psycopg3](https://github.com/psycopg/psycopg3) (experimental PostgreSQL Python adapter with native support for coroutines)
 
 </details>
 
