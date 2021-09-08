@@ -88,11 +88,13 @@ Projects I help maintain:
 - [django-rest-framework-simplejwt](https://github.com/jazzband/django-rest-framework-simplejwt/) (simplified JWT stateless auth)
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) (deploy-ready template for new Django projects and experimentation for new Django features)
 - [aioredis](https://github.com/aio-libs/aioredis-py/) (python async Redis API)
-
+- [fcm-django](https://github.com/xtrinch/fcm-django) (Migrated the entire repository to use Firebase's v1 API)
+- [Jazzband](https://github.com/Jazzband) (an organization dedicated to maintaining Django ecosystem packages)
+  
 Fun Learning Projects:
 - [cookiecutter-django-ec2-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ec2-github) (Extremely thorough DevOps tutorial for AWS deployment for Django projects using GitHub Actions and AWS EC2, CodeDeploy, RDS, ElastiCache)
 - [cookiecutter-django-ecs-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ecs-github) (Same as above except we're using ECS and Dockerhub image repository or ECR image repository)
-- [OAuth Provider and Consumer Tutorial](https://github.com/Andrew-Chen-Wang/django-social-provider-and-consumer-tutorial)
+- [OAuth Provider and Consumer Tutorial](https://github.com/Andrew-Chen-Wang/django-social-provider-and-consumer-tutorial) (React Native and Django Web app tutorial for implementing the full OAuth protocol and OpenID Identity Layer)
 
 </details>
 
