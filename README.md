@@ -72,11 +72,13 @@ Not because they'll rain down, but because diligence rises.
 <details>
   <summary>Current public projects</summary>
 
-- [mobile-auth-example](https://github.com/Andrew-Chen-Wang/mobile-auth-example) (My template for creating native mobile apps with auth, using my favorite network file structure. Re-publicized for [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt))
+- [Velnota](https://velnota.com) (The only social media to share, comment, and extend ideas without misinterpretation)
+- [Hear Ye](https://github.com/Hear-Ye/Hear-Ye-App) (A React Native app that offers you political perspectives of both sides of the aisle on issues)
 - [Donate Anything](https://github.com/Donate-Anything) (search up items you'd like to donate and we'll suggest how to handle it)
-- [Natural Gravity Engine](https://github.com/Andrew-Chen-Wang/natural-gravity-engine) (physics engine that allows researching into the natural properties of gravity and gravitational waves without programming them)
+- [Natural Gravity Engine](https://github.com/Andrew-Chen-Wang/natural-gravity-engine) (Ruat physics engine that allows researching into the natural properties of gravity and gravitational waves without programming them)
 - [Django Async Redis](https://github.com/Andrew-Chen-Wang/django-async-redis) (async Django-Redis package as a next step to making Django completely async capable)
-- [RichEditorView](https://github.com/Andrew-Chen-Wang/RichEditorView) (a WYSIWYG editor for iOS)
+- [RichEditorView](https://github.com/Andrew-Chen-Wang/RichEditorView) (a Swift WYSIWYG editor for iOS)
+- [mobile-auth-example](https://github.com/Andrew-Chen-Wang/mobile-auth-example) (My template for creating native mobile apps with auth, using my favorite network file structure. Re-publicized for [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt))
 - [github-wiki-action](https://github.com/Andrew-Chen-Wang/github-wiki-action) (a ReadTheDocs-like webhook system but for GitHub wiki)
 - [Crowd Sourced Translations](https://www.dolthub.com/repositories/andrew-chen-wang/Crowd-Sourced-Translations) (a Dolthub repository for crowd sourcing translations which were not done by automated services)
 
