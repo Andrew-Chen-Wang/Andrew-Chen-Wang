@@ -25,8 +25,8 @@ and [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt).
   <summary>Monthly quote</summary>
 <br>
   
-> Post-encouragement discouragement is futile.
-
+> In retrospect of the last decade's super corporations, we are exiting the age of Peace, Prosperity, and Profit.
+  
   <!--
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit [Velnota.com](https://velnota.com/)</sup>
 
@@ -51,6 +51,7 @@ This quote is aligned with “learn from your mistakes” but in the form of bei
 11. If only I could see skin color. Oh well. (I hate the news... That should be a good enough explanation for most Americans)
 12. 5 locks is the same as 1 against a roommate. They'll still break in.
 13. Post-encouragement discouragement is futile. It's based on a paper I've always wanted to write about which is it is actually easier to discourage than to encourage, at least when the victim is already in a habitual state like a user of harmful drugs. More details are in my TODO repo. But essentially, yes, humans are lazy, and that's why we say encouragement is difficult. But when humans are acclimated to a habit, it is difficult to get them out of that state.
+14. In retrospect of the last decade's super corporations, we are exiting the age of Peace, Prosperity, and Profit. There is a balancing act that companies have been trying which was to appeal to the young, Democrat audience while getting tax benefits from Republicans. Now that both sides of the aisle is turning against them, who will these companies side with? For a long time, social media companies have safeguarded people's innocense. What will happen now? Monopolies like the Big 3 are being disrupted; what tech "revolution" will happen next that will be (un?)foreseen when politicians are not prepared to take sides?
 </details>
 -->
 
