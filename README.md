@@ -25,7 +25,7 @@ and [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt).
   <summary>Monthly quote</summary>
 <br>
   
-> In retrospect of the last decade's super corporations, we are exiting the age of Peace, Prosperity, and Profit.
+> Both hope and fear is bad
   
   <!--
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit [Velnota.com](https://velnota.com/)</sup>
@@ -73,6 +73,7 @@ Not because they'll rain down, but because diligence rises.
 <details>
   <summary>Current public projects</summary>
 
+- [Tarda](https://github.com/Andrew-Chen-Wang/Tarda) (Browser extension that lets you loop YouTube videos at any specific timeframe, enables Picture-in-Picture for YouTube, and displays images in comment sections)
 - [Velnota](https://velnota.com) (The only social media to share, comment, and extend ideas without misinterpretation)
 - [Hear Ye](https://github.com/Hear-Ye/Hear-Ye-App) (A React Native app that offers you political perspectives of both sides of the aisle on issues)
 - [Donate Anything](https://github.com/Donate-Anything) (search up items you'd like to donate and we'll suggest how to handle it)
