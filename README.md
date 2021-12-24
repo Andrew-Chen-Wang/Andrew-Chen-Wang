@@ -18,8 +18,8 @@ I also maintain [aioredis](https://github.com/aio-libs/aioredis-py),
 [django-cachalot](https://github.com/noripyt/django-cachalot),
 and [SimpleJWT](https://github.com/jazzband/djangorestframework-simplejwt).
 
-Currently working at [Hyper Online](https://hyper.online) and [LeaseMagnets](https://tour.video)
-with a focus in distributed networking.
+Currently working at Y-Combinator-backed [Hyper Online](https://hyper.online)
+and [LeaseMagnets](https://tour.video) with a focus in distributed networking.
 
 </details>
 
