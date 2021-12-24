@@ -1,25 +1,29 @@
 ### Hey 👋 I'm Andrew
 
 ---
-Stuff I wanna do on this account can be found at [Velnota](https://velnota.com/) and [my TODO repo](https://github.com/Andrew-Chen-Wang/TODO).
 
-<details>
+<details open>
   <summary>About Me</summary>
-
-I run [Velnota](https://velnota.com) and [Donate Anything](https://donate-anything.org/), a social media site about creating ideas and expanding upon them and a donation/recycling online service for the sake of laziness.
 
 I'm looking to help with whatever I can;
 this is my public GitHub account where I host personal,
 public projects and WIP hobbies.
 
-I've had a lot of fun learning web + mobile applications, security, ML,
-DevOps, databases, and caches in the past few months on this account.
-I play a lot with Django and am currently trying to pioneer native
-Django for websockets through [cookiecutter-django](https://github.com/pydanny/cookiecutter-django).
-I also help to maintain [django-cachalot](https://github.com/noripyt/django-cachalot)
-and [SimpleJWT](https://github.com/SimpleJWT/django-rest-framework-simplejwt).
+I've had a lot of fun learning web + mobile applications, cybersecurity, NLP,
+DevOps, databases, and caches since January 2020.
+I play a lot with Django and am currently trying to implement asyncio features in Django
+such as its cache and ORM and assist developers in taking advantage of websockets for Django.
+I also maintain [aioredis](https://github.com/aio-libs/aioredis-py),
+[cookiecutter-django](https://github.com/pydanny/cookiecutter-django),
+[django-cachalot](https://github.com/noripyt/django-cachalot),
+and [SimpleJWT](https://github.com/jazzband/djangorestframework-simplejwt).
+
+Currently working at [Hyper Online](https://hyper.online) and [LeaseMagnets](https://tour.video)
+with a focus in distributed networking.
 
 </details>
+
+---
 
 <details>
   <summary>Monthly quote</summary>
@@ -85,18 +89,23 @@ Not because they'll rain down, but because diligence rises.
 - [Crowd Sourced Translations](https://www.dolthub.com/repositories/andrew-chen-wang/Crowd-Sourced-Translations) (a Dolthub repository for crowd sourcing translations which were not done by automated services)
 - [Words in Political Media](https://github.com/Andrew-Chen-Wang/words-in-political-media) (data collection for my NLP model to detect how "entertaining" news is becoming)
 - [Securing SPAs with HttpOnly cookies](https://github.com/Andrew-Chen-Wang/SPA-with-httponly-sessions)
+
+</details>
   
-Projects I help maintain:
+<details><summary>Projects I help maintain</summary>
 
 - [Django](https://djangoproject.com) (the only web framework that makes it coding secure websites fast)
 - [django-cachalot](https://github.com/noripyt/django-cachalot) (a Django ORM automatic caching system that monkeypatches the sh\*t out of the internals of the Django ORM)
-- [django-rest-framework-simplejwt](https://github.com/jazzband/django-rest-framework-simplejwt/) (simplified JWT stateless auth)
+- [djangorestframework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt/) (simplified JWT stateless auth)
 - [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) (deploy-ready template for new Django projects and experimentation for new Django features)
 - [aioredis](https://github.com/aio-libs/aioredis-py/) (python async Redis API)
 - [fcm-django](https://github.com/xtrinch/fcm-django) (Migrated the entire repository to use Firebase's v1 API)
 - [Jazzband](https://github.com/Jazzband) (an organization dedicated to maintaining Django ecosystem packages)
-  
-Fun Learning Projects:
+- [django-oauth-toolkit](https://github.com/jazzband/django-oauth-toolkit) (OAuth 2.0 and OpenID integration with Django)
+
+</details>
+<details><summary>Tutorials and Fun Learning Projects</summary>
+
 - [iOS Chat App](https://github.com/Andrew-Chen-Wang/django-3.0-ios-chat) (iOS Swift 5.0 live chat app as a first time using Django 3.0 native websocket support using the single-user per-socket approach)
 - [cookiecutter-django-ec2-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ec2-github) (Extremely thorough DevOps tutorial for AWS deployment for Django projects using GitHub Actions and AWS EC2, CodeDeploy, RDS, ElastiCache)
 - [cookiecutter-django-ecs-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ecs-github) (Same as above except we're using ECS and Dockerhub image repository or ECR image repository)
