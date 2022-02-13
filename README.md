@@ -32,7 +32,7 @@ with a focus in distributed networking.
   <summary>Monthly quote</summary>
 <br>
   
-> Both hope and fear is bad
+> How do I say this... BIC mechanical pencils are flamboyant.
   
   <!--
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here. For that, visit [Velnota.com](https://velnota.com/)</sup>
