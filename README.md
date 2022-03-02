@@ -21,9 +21,6 @@ I also maintain [redis-py asyncio by RedisLabs](https://github.com/redis/redis-p
 [django-cachalot](https://github.com/noripyt/django-cachalot),
 and [SimpleJWT](https://github.com/jazzband/djangorestframework-simplejwt).
 
-Currently working at Y-Combinator-backed [Hyper Online](https://hyper.online)
-with a focus in distributed networking.
-
 </details>
 
 ---
