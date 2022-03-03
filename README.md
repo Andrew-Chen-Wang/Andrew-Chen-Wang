@@ -8,6 +8,10 @@
 I'm looking to help with whatever I can;
 this is my public GitHub account where I host personal,
 public projects and WIP hobbies.
+  
+Creator of [ArgueBot: Devil's Advocate ChatBot with evidence](https://www.youtube.com/watch?v=kISPUkR0VGY)
+  
+  <img width="584" alt="ACW6440-1646266460" src="https://user-images.githubusercontent.com/60190294/156485410-269ea57f-34e7-4284-8757-ca11f3384070.png">
 
 I've had a lot of fun learning web + mobile applications, cybersecurity, NLP,
 DevOps, databases, and caches since January 2020.
@@ -89,7 +93,10 @@ Not because they'll rain down, but because diligence rises.
 - [Crowd Sourced Translations](https://www.dolthub.com/repositories/andrew-chen-wang/Crowd-Sourced-Translations) (a Dolthub repository for crowd sourcing translations which were not done by automated services)
 - [Words in Political Media](https://github.com/Andrew-Chen-Wang/words-in-political-media) (data collection for my NLP model to detect how "entertaining" news is becoming)
 - [Securing SPAs with HttpOnly cookies](https://github.com/Andrew-Chen-Wang/SPA-with-httponly-sessions)
-
+- [ArgueBot: Devil's Advocate ChatBot with evidence](https://www.youtube.com/watch?v=kISPUkR0VGY)
+  
+  <img width="584" alt="ACW6440-1646266460" src="https://user-images.githubusercontent.com/60190294/156485410-269ea57f-34e7-4284-8757-ca11f3384070.png">
+  
 </details>
   
 <details><summary>Projects I help maintain</summary>
