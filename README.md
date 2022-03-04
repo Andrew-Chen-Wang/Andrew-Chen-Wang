@@ -5,14 +5,27 @@
 <details open>
   <summary>About Me</summary>
 
+<p align="center">
+Founder of The Ur -- AR Metaverse Enhancing the Material World
+through Holographic/Virtual Objects from dragons in playsets to
+amusements parks on rooftops.
+</p>
+<p align="center">
+  <img width="384" alt="Ur Logo" src="https://user-images.githubusercontent.com/60190294/156704481-b3bac2f3-186c-495d-8115-9b0e886eeeba.png">
+</p>
+<p align="center">
 I'm looking to help with whatever I can;
 this is my public GitHub account where I host personal,
 public projects and WIP hobbies.
+</p>
   
-Creator of [ArgueBot: Devil's Advocate ChatBot with evidence](https://www.youtube.com/watch?v=kISPUkR0VGY)
+<p align="center">
+  Creator of <a href="https://www.youtube.com/watch?v=kISPUkR0VGY">ArgueBot: Devil's Advocate ChatBot with evidence</a>
+</p>
+<p align="center">  
+  <img width="384" alt="ArgueBot Demo in Discord Server" src="https://user-images.githubusercontent.com/60190294/156485410-269ea57f-34e7-4284-8757-ca11f3384070.png">
+</p>
   
-  <img width="584" alt="ACW6440-1646266460" src="https://user-images.githubusercontent.com/60190294/156485410-269ea57f-34e7-4284-8757-ca11f3384070.png">
-
 I've had a lot of fun learning web + mobile applications, cybersecurity, NLP,
 DevOps, databases, and caches since January 2020.
 I play a lot with Django and implemented **asyncio** features in Django
