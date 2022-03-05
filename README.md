@@ -6,12 +6,14 @@
   <summary>About Me</summary>
 
 <p align="center">
-Founder of The Ur -- AR Metaverse Enhancing the Material World
+  Founder of <a href="https://urth.earth">The Ur</a> -- AR Metaverse Enhancing the Material World
 through Holographic/Virtual Objects from dragons in playsets to
-amusements parks on rooftops.
+amusements parks on rooftops. Visit us at https://www.urth.earth
 </p>
 <p align="center">
+  <a href="https://urth.earth">
   <img width="384" alt="Ur Logo" src="https://user-images.githubusercontent.com/60190294/156704481-b3bac2f3-186c-495d-8115-9b0e886eeeba.png">
+  </a>
 </p>
 <p align="center">
 I'm looking to help with whatever I can;
