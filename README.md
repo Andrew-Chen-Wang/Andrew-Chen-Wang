@@ -48,7 +48,7 @@ and [SimpleJWT](https://github.com/jazzband/djangorestframework-simplejwt).
   <summary>Monthly quote</summary>
 <br>
   
-> Low-cost labor is not about human capital itself but about expensive labor and cheap counterpart solutions like algorithms to make smarter decisions.
+> More young people are into Web3 because of low barriers to entry, and it's a new technology. ~ Leo Zaroff from Caravan
   
   <!--
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here.</sup>
