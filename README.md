@@ -19,7 +19,7 @@ public projects and WIP hobbies.
 </p>
   
 I've had a lot of fun learning web + mobile applications, cybersecurity, NLP,
-DevOps, databases, and caches since January 2020.
+DevOps, databases, and caches. I specialize in high performance backend architecture.
 I play a lot with Django and implemented **asyncio** features in Django
 such as its [cache](https://github.com/django/django/pull/13547)
 and [ORM](https://github.com/django/django/pull/15357)
@@ -27,7 +27,7 @@ and assist developers in taking advantage of
 [websockets for Django](https://github.com/cookiecutter/cookiecutter-django/pull/2506).
 I also maintain [redis-py asyncio by RedisLabs](https://github.com/redis/redis-py/) + [aioredis](https://github.com/aio-libs/aioredis-py),
 [cookiecutter-django](https://github.com/pydanny/cookiecutter-django),
-[django-cachalot](https://github.com/noripyt/django-cachalot),
+[django-cachalot](https://github.com/noripyt/django-cachalot), [Jazzband](https://jazzband.co),
 and [SimpleJWT](https://github.com/jazzband/djangorestframework-simplejwt).
 
 </details>
