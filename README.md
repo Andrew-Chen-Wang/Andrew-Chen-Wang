@@ -120,6 +120,7 @@ Not because they'll rain down, but because diligence rises.
 </details>
 <details><summary>Tutorials and Fun Learning Projects</summary>
 
+- [Stateful Auth via HttpOnly cookies](https://github.com/multiple-react-repo-for-fastapi) (Creating stateful, session-backed cookies safely at Instagram to avoid XSS)
 - [iOS Chat App](https://github.com/Andrew-Chen-Wang/django-3.0-ios-chat) (iOS Swift 5.0 live chat app as a first time using Django 3.0 native websocket support using the single-user per-socket approach)
 - [cookiecutter-django-ec2-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ec2-github) (Extremely thorough DevOps tutorial for AWS deployment for Django projects using GitHub Actions and AWS EC2, CodeDeploy, RDS, ElastiCache)
 - [cookiecutter-django-ecs-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ecs-github) (Same as above except we're using ECS and Dockerhub image repository or ECR image repository)
