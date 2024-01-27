@@ -38,7 +38,7 @@ and [SimpleJWT](https://github.com/jazzband/djangorestframework-simplejwt).
   <summary>Monthly quote</summary>
 <br>
   
-> More young people are into Web3 because of low barriers to entry, and it's a new technology. ~ Leo Zaroff from Caravan
+> Wars are social, not economic
   
   <!--
 <sup>explanation in comments in README. Just press raw to view. I don't list all my ideas here.</sup>
@@ -68,6 +68,8 @@ This quote is aligned with “learn from your mistakes” but in the form of bei
 15. How do I say this... BIC mechanical pencils are flamboyant.
 16. Low-cost labor is not about human capital itself but about expensive labor and cheap counterpart solutions like algorithms to make smarter decisions. Inspired by: https://www.youtube.com/watch?v=1KtTAb9Tl6E
 </details>
+17. More young people are into Web3 because of low barriers to entry, and it's a new technology. ~ Leo Zaroff from Caravan
+18. Wars are social, not economic. Unrest and emotion, ethnic injustice, and raids of kingdoms hide behind economic ties. Peace dividends derive from the misconception of war: propserity leads to morale. Military spending being tied to GDP by supply side economic theorists continue the masquerade. Even at the human level, all people are different, so you'll always hear voices for change, to become more economically mobile.
 -->
 
 </details>
