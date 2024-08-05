@@ -82,7 +82,7 @@ Not because they'll rain down, but because diligence rises.
   <summary>Current public projects</summary>
 
 - [Tarda](https://github.com/Andrew-Chen-Wang/Tarda) (Browser extension that lets you loop YouTube videos at any specific timeframe, enables Picture-in-Picture for YouTube, and displays images in comment sections)
-- [Velnota](https://velnota.com) (The only social media to share, comment, and extend ideas without misinterpretation)
+<!--- [Velnota](https://velnota.com) (The only social media to share, comment, and extend ideas without misinterpretation)-->
 - [Hear Ye](https://github.com/Hear-Ye/Hear-Ye-App) (A React Native app that offers you political perspectives of both sides of the aisle on issues)
 - [Donate Anything](https://github.com/Donate-Anything) (search up items you'd like to donate and we'll suggest how to handle it)
 - [Natural Gravity Engine](https://github.com/Andrew-Chen-Wang/natural-gravity-engine) (Ruat physics engine that allows researching into the natural properties of gravity and gravitational waves without programming them)
